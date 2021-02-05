@@ -11,7 +11,7 @@
 
 [PDF](https://arxiv.org/pdf/2101.11282.pdf)
 
-[翻译]()
+[翻译]([论文翻译：Deep Image Retrieval A Survey (liusiyuan.site)](https://liusiyuan.site/2021/02/05/论文翻译：Deep-Image-Retrieval-A-Survey/))
 
 ## Object Detection
 
